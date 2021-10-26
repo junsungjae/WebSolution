@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "start project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junsungjae/WebSolution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junsungjae/WebSolution/issues"
+  },
+  "homepage": "https://github.com/junsungjae/WebSolution#readme",
+  "dependencies": {
+    "expree": "^0.1.6"
+  }
+}
